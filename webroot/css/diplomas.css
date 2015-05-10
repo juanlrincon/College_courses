@@ -1,0 +1,72 @@
+.dheader {
+	height: 163px;
+	width: 940px;
+	margin-top: 20px;
+	background: #000;
+	background-image: url(../img/dheader.jpg);
+}
+
+.dtipo {
+	font-size: 50px;
+	font-family: Times;
+	color: #FFF;
+	margin-left: 20px;
+	padding-top: 6px;
+}
+
+.dnombre {
+	font-size: 38px;
+	color: #89A7BD;
+	width: 240px;
+	margin-left: 20px;
+}
+
+.dfechas {
+	color: #89A7BD;
+	font-size: 15px;
+}
+
+.dlugar {
+	font-size: 10px;
+	color: #FFF;
+}
+
+.dcosto {
+	font-size: 11px;
+	color: #AAAAAA;
+	margin-top: 90px;
+}
+
+.dprecio {
+	color: #FFF;
+}
+
+.float_contenido {
+	width: 260px;
+	float: left;
+	height: 190px;
+	padding: 30px 30px 40px 20px;
+	color: #ABABAB;
+	font-family: Lucida, Sans, Lucida Grande;
+}
+
+.float_contenido p {
+	color: #989898;
+}
+
+.azul {
+	font-size: 11px;
+	color: #89A7BD;
+}
+
+.perfil {
+	color: #000000;
+	font-size: 10px;
+	font-weight: bold;
+}
+
+.perfil a{
+	color: #000000;
+	font-size: 10px;
+	text-decoration: none;
+}
